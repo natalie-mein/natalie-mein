@@ -4,8 +4,7 @@ Hey there! I'm a C/C++ developer with a love of data. Particularly, I'm very int
 ## 💫 Some projects:
 1. [Data engineering Capstone project](https://github.com/natalie-mein/data-engineering-learnings) : My first attempt at a data engineering project.
    This was in conjuction with [DataTribe Collective](https://github.com/datatribe-collective) and DataCamp and I won a 1 year scholarship to DataCamp.
-2. [Minishell](https://github.com/natalie-mein/Minishell) A basic Unix shell (POSIX-C) -  a lightweight Unix-compatible shell that supports command   
-   execution, pipes, redirections, and built-in commands, emulating core shell functionalities.
+2. [Minishell](https://github.com/natalie-mein/Minishell) A basic Unix shell (POSIX-C) -  a lightweight Unix-compatible shell that supports command execution, pipes, redirections, and built-in commands, emulating core shell functionalities.
 3. [LIBFT](https://github.com/natalie-mein/libft)  A custom C standard library. I recreated essential functions from the C standard library and expanding it with custom functions for string handling, memory operations, list manipulation, and error checking. 
 
 ## 🌐 Socials:
