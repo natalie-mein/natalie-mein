@@ -3,7 +3,7 @@ I'm a C/C++ developer with a love of data. Particularly, I'm very interested in 
 
 ## Skills & Interests
 C/C++ Developer – As my introduction to programming was in learning C, I have a special fondness for this language. It gave me a strong understanding of pointers, memory management and data structures and algorithms.<br>Data Science & Engineering – this is a new learning area for me. I've done exactly one (1) data engineering project, but it taught me a lot.
-Mathematical Modeling – All related to epidemiology. Specifically, vaccine modelling using Berkeley-Madonna software.<br>Epidemiology – Using data to answer public health questions and suggest practical solutions to real problems<br><br>What I'm Working on<br>Expanding my C++ and data engineering expertise<br><br> Data engineering<br> Python and SQL <br>Cloud tech (GCP and Azure) <br> Containerization 
+Mathematical Modeling – All related to epidemiology. Specifically, vaccine modelling using Berkeley-Madonna software.<br>Epidemiology – Using data to answer public health questions and suggest practical solutions to real problems<br><br>What I'm Working on<br>Expanding my C++ and data engineering expertise<br><br> Data engineering<br> Python and SQL <br>Cloud computing (GCP and Azure) <br> Containerization 
 
 ##  Some projects:
 1. [Data engineering Capstone project](https://github.com/natalie-mein/data-engineering-learnings) : My first attempt at a data engineering project.
