@@ -1,9 +1,19 @@
 # About Me:
-I'm a C/C++ developer with a love of data. Particularly, I'm very interested in data science and data engineering. My background in epidemiology gave me experience in statistics and mathematical modeling. 
+I'm a C/C++ developer with a love of data. I'm completing my studies at Hive Helsinki and am looking for an internship to complete the course. I would love something in C or C++; or data engineering. 
 
 ## Skills & Interests
-C/C++ Developer – As my introduction to programming was in learning C, I have a special fondness for this language. It gave me a strong understanding of pointers, memory management and data structures and algorithms.<br>Data Science & Engineering – this is a new learning area for me. I've done exactly one (1) data engineering project, but it taught me a lot.
-Mathematical Modeling – All related to epidemiology. Specifically, vaccine modelling using Berkeley-Madonna software.<br>Epidemiology – Using data to answer public health questions and suggest practical solutions to real problems<br><br>What I'm Working on<br>Expanding my C++ and data engineering expertise<br><br> Data engineering<br> Python and SQL <br>Cloud computing (GCP and Azure) <br> Containerization 
+C/C++ – As my introduction to programming was in learning C, I have a special fondness for this language. It gave me a strong understanding of pointers, memory management and data structures and algorithms. I'm extremely into low level programming and would love to get into embedded or bare metal programming more.<br>
+Data Science & Engineering – this is a new learning area for me. I've done exactly two (2) data engineering projects, but they taught me a lot.<br>
+Mathematical Modeling – All related to epidemiology. Specifically, vaccine modelling using Berkeley-Madonna software.<br>
+Epidemiology – Using data to answer public health questions and suggest practical solutions to real problems<br>
+<br>
+
+## What I'm Working on<br>
+Expanding my C and C++ expertise<br>
+Learning data engineering technologies<br> 
+Improving my Python and SQL skills<br>
+Cloud computing (GCP and Azure) <br> 
+Containerization and DevOps principles
 
 ##  Some projects:
 1. [Data engineering Capstone project](https://github.com/natalie-mein/data-engineering-learnings) : My first attempt at a data engineering project.
