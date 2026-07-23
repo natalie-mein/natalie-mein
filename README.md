@@ -9,15 +9,16 @@ Education:
    "BSc: Genetics",
    "MSc: Epidemiology",
    "Hive Helsinki: Computer Programming",
+   "Baltic Interreg: Cybersecurity Certificate"
 ]
 
 Areas of interest:
 [
-   "Data engineering",
    "Cybersecurity",
    "C and C++ programming",
    "Backend engineering",
-   "Linux development"
+   "Linux development",
+   "Data engineering"
 ]
 
 Programming Languages:
